@@ -1,0 +1,7 @@
+.bootpag {
+    display: flex;
+}
+
+.pagination {
+    float: right;
+}
